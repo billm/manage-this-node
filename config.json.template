@@ -10,7 +10,7 @@
       "name": "ruTorrent",
       "default": false,
       "url": "",
-      "icon": "fa fa-globe",
+      "icon": "fas fa-globe",
       "sort": null
     },
     {
@@ -18,7 +18,7 @@
       "name": "Syncthing",
       "default": false,
       "url": "",
-      "icon": "fa fa-exchange",
+      "icon": "fas fa-exchange-alt",
       "sort": null
     },
     {
@@ -42,7 +42,7 @@
       "name": "CouchPotato",
       "default": false,
       "url": "",
-      "icon": "fa fa-television",
+      "icon": "fas fa-tv",
       "sort": null
     },
     {
@@ -74,7 +74,7 @@
       "name": "NZBGet",
       "default": false,
       "url": "",
-      "icon": "fa fa-download",
+      "icon": "fas fa-download",
       "sort": null
     },
     {
@@ -82,7 +82,7 @@
       "name": "SABNZBd",
       "default": false,
       "url": "",
-      "icon": "fa fa-download",
+      "icon": "fas fa-download",
       "sort": null
     },
     {
@@ -90,7 +90,7 @@
       "name": "PlexPy",
       "default": false,
       "url": "",
-      "icon": "fa fa-server",
+      "icon": "fas fa-server",
       "sort": null
     },
     {
@@ -106,7 +106,7 @@
       "name": "Deluge",
       "default": false,
       "url": "",
-      "icon": "fa fa-tint",
+      "icon": "fas fa-tint",
       "sort": null
     },
     {
@@ -114,7 +114,7 @@
       "name": "Plex",
       "default": true,
       "url": "https://app.plex.tv/web/",
-      "icon": "fa fa-play-circle",
+      "icon": "fas fa-play-circle",
       "sort": 1
     },
     {
@@ -122,7 +122,7 @@
       "name": "Emby",
       "default": false,
       "url": "",
-      "icon": "fa fa-caret-square-o-right",
+      "icon": "fas fa-caret-square-right",
       "sort": null
     }
   ]
